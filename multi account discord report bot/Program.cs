@@ -28,7 +28,7 @@ namespace multi_account_discord_report_bot
             }
             catch
             {
-                Console.WriteLine("Looks like there is something wrong to the file path, an valid example: D:\\Desktop\\tokens.txt ");
+                Console.WriteLine("Looks like there is something wrong with the file path, an valid example: D:\\Desktop\\tokens.txt ");
                 Thread.Sleep(3500);
                 goto retry;
 
