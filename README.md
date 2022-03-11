@@ -3,6 +3,8 @@ Exploit discord by reporting a message using multiple accounts.
 
 Follow me [here](https://github.com/fknMega) to support me!
 
+For a single account report bot, [click here](https://github.com/fknMega/Discord-Report-Bot)
+
 ### Ban people easily!
 
 - Fast, but not too fast (not getting rate limit)
